@@ -1,16 +1,19 @@
-# exoworlds
+# ExoWorlds
 
-A new Flutter project.
+ExoWorlds is an innovative mobile application designed to explore exoplanets and their characteristics, allowing users to gain insights into distant worlds beyond our solar system. The app utilizes data from NASA and other open data sources to provide detailed information about various exoplanets, including their atmospheres, temperatures, and potential habitability.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Explore a curated list of known exoplanets.
+- View detailed information about each exoplanet, including its distance from Earth, size, and atmospheric composition.
+- Visualize exoplanets with stunning graphics and animations.
+- Search and filter exoplanets based on various criteria.
+- Stay updated with the latest discoveries in the field of exoplanet research.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To install ExoWorlds, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/CodeWithJeet1204/ExoWorlds.git
